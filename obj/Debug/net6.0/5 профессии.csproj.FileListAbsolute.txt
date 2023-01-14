@@ -1,0 +1,15 @@
+C:\Users\okovd\Documents\GB\5 профессии\bin\Debug\net6.0\5 профессии.exe
+C:\Users\okovd\Documents\GB\5 профессии\bin\Debug\net6.0\5 профессии.deps.json
+C:\Users\okovd\Documents\GB\5 профессии\bin\Debug\net6.0\5 профессии.runtimeconfig.json
+C:\Users\okovd\Documents\GB\5 профессии\bin\Debug\net6.0\5 профессии.dll
+C:\Users\okovd\Documents\GB\5 профессии\bin\Debug\net6.0\5 профессии.pdb
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.csproj.AssemblyReference.cache
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.AssemblyInfoInputs.cache
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.AssemblyInfo.cs
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.csproj.CoreCompileInputs.cache
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.dll
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\refint\5 профессии.dll
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.pdb
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\5 профессии.genruntimeconfig.cache
+C:\Users\okovd\Documents\GB\5 профессии\obj\Debug\net6.0\ref\5 профессии.dll
